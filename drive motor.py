@@ -13,4 +13,7 @@ utime.sleep(5)
 motor.speed(50,0)                  # turn right at speed 50
 utime.sleep(5)
 
+motor.speed(-50,-50)               # move backward at speed 50
+utime.sleep(5)   
+
 motor.brake()                      # brake the motor
