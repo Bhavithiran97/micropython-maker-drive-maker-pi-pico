@@ -41,11 +41,12 @@ Click OK and the library is added to your Pi Pico
 
  - Positive value indicates forward direction with 100 as full speed
  - Negative value indicates backward direction with -100 as full speed
- - 0 stops the motor
+ - 0 stops the moto
+ 
 **Move Forward**
 
  - `motor.speed(50,50) # move forward at speed 50`
- - 
+ 
 **Move Backward**
 
  - `motor.speed(-50,-50) # move backward at speed 50`
