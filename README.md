@@ -4,7 +4,7 @@ This library supports Maker Drive to be used with Pi Pico
 
 **The library file must be saved inside the Raspberry Pi Pico before uploading user's code**
 ## Add Library
-Step 1: Download the library file (LCD_SPI.py or LCD_I2C.py)
+Step 1: Download the library file (motor_driver.py)
 
 Step 2: Launch Thonny application and open the library file
 
@@ -18,7 +18,7 @@ Step 3: Save the library file into the Pi Pico
 ![13](https://user-images.githubusercontent.com/34527010/106845126-36ed5700-66e5-11eb-88a6-5623e85f4e8d.png)
 
 
-Step 4: Save the library with the same name you downloaded with (LCD_SPI.py or LCD_I2C.py) **Must add .py at the back**
+Step 4: Save the library with the same name you downloaded with (motor_driver.py) **Must add .py at the back**
 
 ![14](https://user-images.githubusercontent.com/34527010/106845128-381e8400-66e5-11eb-80bd-24fbd42bff8b.PNG)
 
